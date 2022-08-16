@@ -4,7 +4,7 @@
 ## Papers
 
 ### 1D-CNN
-- [Automatic sleep stage scoring with single-channel EEG using convolutional neural networks]
+- [Automatic sleep stage scoring with single-channel EEG using convolutional neural networks (arXiv, 2016)](https://arxiv.org/abs/1610.01683)
 - [DeepSleepNet: A Model for Automatic Sleep Stage Scoring Based on Raw Single-Channel EEG (IEEE TNSRE, 2017)](https://ieeexplore.ieee.org/abstract/document/7961240)
 - [SleepEEGNet: Automated sleep stage scoring with sequence to sequence deep learning approach (PLOS ONE, 2019)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216456)
 - [Deep learning for automated sleep staging using instantaneous heart rate (Nature, 2020)](https://www.nature.com/articles/s41746-020-0291-x)
