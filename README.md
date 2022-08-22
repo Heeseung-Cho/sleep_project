@@ -9,6 +9,12 @@
 - [SleepEEGNet: Automated sleep stage scoring with sequence to sequence deep learning approach (PLOS ONE, 2019)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216456)
 - [Deep learning for automated sleep staging using instantaneous heart rate (Nature, 2020)](https://www.nature.com/articles/s41746-020-0291-x)
 
+### Attention / Transformer
+
+- [SleepTransformer: Automatic Sleep Staging With Interpretability and Uncertainty Quantification](https://arxiv.org/abs/2105.11043)
+- [Towards Interpretable Sleep Stage Classification Using Cross-Modal Transformers](https://arxiv.org/pdf/2208.06991v1.pdf)
+- [An Attention-Based Deep Learning Approach for Sleep Stage Classification With Single-Channel EEG](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9417097)
+
 ## Datasets
 - [Sleep-EDF](https://www.physionet.org/content/sleep-edf/1.0.0/)
 - [CAP Sleep Database](https://physionet.org/content/capslpdb/1.0.0/)
@@ -17,3 +23,4 @@
 ## Reference
 - [DeepSleepNet](https://github.com/akaraspt/deepsleepnet)
 - [SleepEEGNet](https://github.com/MousaviSajad/SleepEEGNet)
+- [AttnSleep](https://github.com/emadeldeen24/AttnSleep)
