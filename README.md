@@ -11,7 +11,6 @@
 - [Deep learning enables sleep staging from photoplethysmogram for patients with suspected sleep apnea, (SLEEP, 2020)](https://academic.oup.com/sleep/article/43/11/zsaa098/5841624)
 
 ### Attention / Transformer
-
 - [SleepTransformer: Automatic Sleep Staging With Interpretability and Uncertainty Quantification](https://arxiv.org/abs/2105.11043)
 - [Towards Interpretable Sleep Stage Classification Using Cross-Modal Transformers](https://arxiv.org/pdf/2208.06991v1.pdf)
 - [An Attention-Based Deep Learning Approach for Sleep Stage Classification With Single-Channel EEG](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9417097)
@@ -25,3 +24,4 @@
 - [DeepSleepNet](https://github.com/akaraspt/deepsleepnet)
 - [SleepEEGNet](https://github.com/MousaviSajad/SleepEEGNet)
 - [AttnSleep](https://github.com/emadeldeen24/AttnSleep)
+- [Cross-Modal-Transformer](https://github.com/jathurshan0330/cross-modal-transformer)
