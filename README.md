@@ -18,6 +18,9 @@
 - [XSleepNet: Multi-View Sequential Model for Automatic Sleep Staging (IEEE TPAMI, 2021)](https://arxiv.org/pdf/2007.05492.pdf)
 - [Towards Interpretable Sleep Stage Classification Using Cross-Modal Transformers(Preprint, 2022)](https://arxiv.org/pdf/2208.06991v1.pdf)
 
+### XAI
+- [Grad-CAM-1D-pytorch](https://github.com/liguge/1D-Grad-CAM-for-interpretable-intelligent-fault-diagnosis)
+
 
 ## Datasets
 - [Sleep-EDF](https://www.physionet.org/content/sleep-edf/1.0.0/)
@@ -29,3 +32,4 @@
 - [SleepEEGNet](https://github.com/MousaviSajad/SleepEEGNet)
 - [AttnSleep](https://github.com/emadeldeen24/AttnSleep)
 - [Cross-Modal-Transformer](https://github.com/jathurshan0330/cross-modal-transformer)
+- [XSleepNet](https://github.com/pquochuy/xsleepnet)
