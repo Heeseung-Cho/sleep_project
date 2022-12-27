@@ -3,6 +3,9 @@
 
 ## Papers
 
+### Preprocessing
+- [EEG data augmentation: towards class imbalance problem in sleep staging tasks(JNE, 2020)](https://iopscience.iop.org/article/10.1088/1741-2552/abb5be/meta)
+
 ### 1D-CNN
 - [Automatic sleep stage scoring with single-channel EEG using convolutional neural networks (arXiv, 2016)](https://arxiv.org/abs/1610.01683)
 - [DeepSleepNet: A Model for Automatic Sleep Stage Scoring Based on Raw Single-Channel EEG (IEEE TNSRE, 2017)](https://ieeexplore.ieee.org/abstract/document/7961240)
